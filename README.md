@@ -1,6 +1,6 @@
 # liveasy_assignment
 
-A new Flutter project.
+A Simple Signing in using phone verification firebase.
 
 ## Getting Started
 
